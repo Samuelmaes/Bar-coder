@@ -9,26 +9,9 @@
     <meta name="description" content="Le seul bar à thé qui vous propose une 10ene de variété dans une ambiance sobre.">
     <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond" rel="stylesheet">
     <link rel="stylesheet" href="css/main.css">
-    <title>Arma 3</title>
     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
     <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
     <link href="bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet">
     <title>Le N°T</title>
   </head>
   <body>
-    <header>
-
-
-    </header>
-    <body>
-
-
-    </body>
-
-    <footer>
-    <!-- meta slide javascript -->
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-      <script src="bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
-    </footer>
-  </body>
-</html>
