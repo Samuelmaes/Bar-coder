@@ -1,0 +1,119 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Cormorant', serif;
+}
+img{
+  width: 100%;
+}
+
+.hamburger{
+  position: relative;
+  margin-top: 50px;
+  z-index: 1001;
+}
+.menu{
+  position: absolute;
+  margin-left: 33px;
+  margin-top: 51px;
+  width: 246px;
+  height: 355px;
+  border: solid 2px black;
+  background-color: white;
+  z-index: 1000;
+}
+.menu ul{
+  list-style: none;
+}
+.menuplace{
+  margin-left: 46px;
+  margin-right: 46px;
+}
+.menu li{
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 39px;
+  border-bottom: solid 1px black;
+}
+.menu li:hover{
+  color: #ffcc00;
+}
+.menu a{
+  text-decoration: none;
+  color: black;
+}
+.menu a img, .fondnoir img{
+  width: 23px;
+  margin-bottom: 9px;
+}
+.hamburger{
+  position: absolute;
+}
+.hamburger .glyphicon{
+  font-size: 25px;
+}
+.logo{
+  width: 122px;
+  height: 172px;
+  margin: 38px auto 0 auto;
+}
+.accroche h1{
+  font-size: 20px;
+  text-align: center;
+}
+.nosthes, .lelieu, .actu{
+  margin-top: 115px;
+}
+.photonosthes, .photolelieu, .photoactu{
+  border: 1px black solid;
+  width: 265px;
+  height: 401px;
+  background-size: cover;
+}
+.photonosthes{
+  background-image: url(../img/thes.png);
+}
+.photolelieu{
+  background-image: url(../img/lieu.png);
+}
+.photoactu{
+  background-image: url(../img/actualite.png);
+}
+.centrer{
+  margin-left: 5em;
+}
+.photo2{
+  margin-top: 670px;
+  height: 642px;
+  width: 100%;
+  background-image: url(../img/arabica.png);
+  background-size: cover;
+  position: relative;
+}
+.fondnoir{
+  background-color: black;
+  opacity: 0.35;
+  width: 670px;
+  height: 553px;
+  margin: 40px 236px;
+  position: absolute;
+  padding: 50px;
+}
+.fondnoir h2{
+  font-size: 52.8px;
+}
+.fondnoir p{
+  font-size: 18px;
+}
+.fondnoir h2, .fondnoir p{
+  color: white;
+  text-align: center;
+}
+.ouverture p{
+  text-align: center;
+  margin-top: 145px;
+  font-size: 30px;
+}
+.fermeture{
+  margin-top: 143px;
+}
